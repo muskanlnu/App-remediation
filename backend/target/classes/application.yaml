@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    azure:
+      cosmos:
+        database: "blockerData"
+        populate-query-metrics: true
+        endpoint: "https://cosmos-cloudblockers.documents.azure.com:443/"
+        key: "FkN6yEwo3SjvLUI9GG1ehNQXR2YKaheghSUbKenGymUfjpOOofe8heisQFaipA5qWtjy767XS2uFACDbItw6Xw=="
